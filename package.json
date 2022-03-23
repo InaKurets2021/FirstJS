@@ -1,0 +1,24 @@
+{
+  "name": "FirstJS",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/InaKurets2021/FirstJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InaKurets2021/FirstJS/issues"
+  },
+  "homepage": "https://github.com/InaKurets2021/FirstJS#readme",
+  "devDependencies": {
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
